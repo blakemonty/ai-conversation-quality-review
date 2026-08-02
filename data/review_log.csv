@@ -1,0 +1,121 @@
+ID,Date,Scenario,Accuracy,Tone,Complete ,Policy,Severity ,Primary QA Finding,Reviewer Notes 
+C-001,7/1/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Low,None,"Good response, empathetic tone. "
+C-002,7/1/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,This response could use a question at the end instead of “if you’d like”. 
+C-003,7/1/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,"Good response, good solution. "
+C-004,7/1/26,Warranty ,Pass,Pass ,Pass ,Pass,Low,None,Good response but would like to see “does that sound good” at the end for permission. 
+C-005,7/1/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Low,None,"Good response, empathetic tone. "
+C-006,7/1/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,"Good response, very good recommendation. "
+C-007,7/1/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,"Good response, very good recommendation. "
+C-008,7/1/26,Account Access,Pass,Pass ,Pass ,Pass,Low,None,Decent but generic. Empathetic offer of staying with customer as they check would be nice. 
+C-009,7/1/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,"Good response, good assistance here. "
+C-010,7/1/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Low,None,Good response but would like to see a little more empathy and a follow up question. 
+C-011,7/1/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,"Good response, very good recommendation. "
+C-012,7/1/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Medium,None,Good explanation of issue. 
+C-013,7/1/26,Warranty ,Pass,Pass ,Pass ,Pass,Medium,None,Good response but follow up question needed. 
+C-014,7/1/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Good response but follow up question needed. 
+C-015,7/1/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Good insight and info but follow up question needed. 
+C-016,7/1/26,Account Access,Pass,Pass ,Pass ,Pass,Low,None,"Good response, handled quickly. "
+C-017,7/1/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Very good recommendation. 
+C-018,7/1/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Low,None,Good resolution and explanation. 
+C-019,7/2/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Successful but more info needed about return policy period. 
+C-020,7/2/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Good recommendation. 
+C-021,7/2/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Medium,None,Good information. Good empathy. 
+C-022,7/2/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,"Strong recommendation, follow up question needed. "
+C-023,7/2/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,"Strong recommendation, follow up question needed. "
+C-024,7/2/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Confirmed that it can be returned but more information about return policy period is needed. 
+C-025,7/2/26,Warranty ,Pass,Pass ,Pass ,Pass,Low,None,Good but follow up question needed. 
+C-026,7/2/26,Billing,Pass,Pass ,Pass ,Pass,High,None,Very helpful and puts customer at ease quickly. 
+C-027,7/2/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Low,None,Follow up question would be good here. 
+C-028,7/2/26,Product Recommendation,Pass,Fail,Pass ,Pass,Low,Missing Empathy ,"Pretty robotic, no strong empathy or excitement here. "
+C-029,7/2/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Follow up question gaining permission to proceed would be nice here. 
+C-030,7/2/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Educational but not super conversational. 
+C-031,7/2/26,Warranty ,Pass,Pass ,Pass ,Pass,Medium,None,Follow up question needed. 
+C-032,7/2/26,Shipping Delay,Fail,Pass ,Pass ,Fail,High,Incorrect Information ,Package hasn’t moved in 8 days but customer is told that estimated delivery is in 2 days. Not sure where this is coming and not explained. 
+C-033,7/2/26,Account Access,Fail,Pass ,Fail,Pass,High,Incomplete Response,"Does not confirm how to make an address change, only say they submitted a request to fulfillment team but doesn’t tell customer is fulfillment team is reaching out. "
+C-034,7/2/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Good recommendation. 
+C-035,7/2/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-036,7/2/26,Shipping Delay,Fail,Pass ,Fail,Fail,High,Incorrect Information ,Still an unusual choice to fully know the delivery date if it hasn’t updated in the system with the carrier. 
+C-037,7/2/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Good response. Confirmed return eligible and sent email for followup. 
+C-038,7/2/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Good rec. 
+C-039,7/2/26,Warranty ,Pass,Pass ,Pass ,Pass,Low,None,"Good response, good escalation path via email. "
+C-040,7/2/26,Billing,Pass,Pass ,Fail,Pass,Medium,Incomplete Response,Doesn’t provide contact for customer service. Doesn’t ask what the customer wants to do either. Feels incomplete. 
+C-041,7/2/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Low,None,Believable delivery issue where customer may have not seen an update. 
+C-042,7/2/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-043,7/2/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-044,7/2/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Confirmed return eligibility. Handled well. 
+C-045,7/2/26,Shipping Delay,Fail,Pass ,Fail,Fail,High,Incorrect Information ,Still an unusual choice to fully know the delivery date if it hasn’t updated in the system with the carrier. 
+C-046,7/2/26,Warranty ,Pass,Pass ,Pass ,Pass,Low,None,Good response. Tells the customer they will email instructions having to do with warranty. 
+C-047,7/2/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-048,7/2/26,Shipping Delay,Fail,Pass ,Fail,Fail,High,Incorrect Information ,Still an unusual choice to fully know the delivery date if it hasn’t updated in the system with the carrier. 
+C-049,7/2/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Educational and solid. 
+C-050,7/2/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,This works even though return policy timeline wasn’t shared as customer said they received it last week. Would like to see return window offered and clear escalation path. 
+C-051,7/2/26,Warranty ,Pass,Pass ,Fail,Pass,Low,Missing Escalation ,"Would like to see AI show customer how to get in touch with warranty team, just in case. "
+C-052,7/2/26,Billing,Pass,Pass ,Pass ,Pass,Low,None,Good clear up with credit card auth. 
+C-053,7/2/26,Shipping Delay,Fail,Pass ,Fail,Fail,Low,Incomplete Response,Still an unusual choice to fully know the delivery date if it hasn’t updated in the system with the carrier. 
+C-054,7/2/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-055,7/2/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-056,7/2/26,Return Request ,Pass,Pass ,Fail,Pass,Low,Incomplete Response,This works even though return policy timeline wasn’t shared as customer said they received it yesterday. Would like to see return window offered. 
+C-057,7/2/26,Shipping Delay,Fail,Pass ,Fail,Fail,High,Incorrect Information ,Still an unusual choice to fully know the delivery date if it hasn’t updated in the system with the carrier. 
+C-058,7/2/26,Warranty ,Pass,Pass ,Pass ,Pass,Low,None,Check if customer is aware of how to properly contact warranty team. 
+C-059,7/2/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Good informative convo. 
+C-060,7/2/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Good info. 
+C-061,7/2/26,Shipping Delay,Fail,Pass ,Fail,Fail,High,Incorrect Information ,"This one is a little confusing. Not sure how North Ridge Outfitters would know the delivery date and the customer wound’t, especially in the hands of the carrier now. Unclear. "
+C-062,7/2/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-063,7/2/26,Warranty ,Pass,Pass ,Fail,Pass,Low,Missing Escalation ,Good info but still needs to check if customer knows how to fully contact warranty support team. 
+C-064,7/3/26,Billing,Pass,Pass ,Pass ,Pass,Medium,None,Good response. 
+C-065,7/3/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-066,7/3/26,Shipping Delay,Fail,Pass ,Fail,Fail,High,Incorrect Information ,Still an unusual choice to fully know the delivery date if it hasn’t updated in the system with the carrier. 
+C-067,7/3/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Good information. 
+C-068,7/3/26,Return Request ,Fail,Pass ,Fail,Pass,Medium,Incomplete Response,Try to let the customer know about how long the return policy normally is. Feels incomplete. 
+C-069,7/3/26,Warranty ,Pass,Pass ,Fail,Pass,Low,Missing Escalation ,Confirm is customer knows how to reach the warranty support team before ending interaction. 
+C-070,7/3/26,Shipping Delay,Fail,Pass ,Fail,Fail,High,Incorrect Information ,Not sure how North Ridge Outfitters knows the updated delivery date when the customer does not when it’s in the hands of the carrier now. This could easily be incorrect. 
+C-071,7/3/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-072,7/3/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Educational. Would be nice to see AI ask “did something in particular catch your eye?” When it comes to a merino product they are asking about. 
+C-073,7/3/26,Shipping Delay,Fail,Pass ,Fail,Fail,High,Incomplete Response,"This one is a little confusing. Not sure how North Ridge Outfitters would know the delivery date and the customer wound’t, especially in the hands of the carrier now. Unclear. "
+C-074,7/3/26,Return Request ,Fail,Pass ,Fail,Fail,High,Generic Recommendation ,Does not mention any return policy period for the customer. 
+C-075,7/3/26,Warranty ,Pass,Pass ,Pass ,Pass,Low,None,Would like to see warranty/support number given or at least confirm they know how to file a claim. 
+C-076,7/3/26,Billing,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-077,7/3/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,"Excellent. Super friendly, great recs. "
+C-078,7/3/26,Shipping Delay,Fail,Pass ,Fail,Fail,High,Incorrect Information ,"This one is a little confusing. Not sure how North Ridge Outfitters would know the delivery date and the customer wound’t, especially in the hands of the carrier now. Unclear. "
+C-079,7/3/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Super informative guidance. 
+C-080,7/3/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Good lively interaction. 
+C-081,7/3/26,Warranty ,Pass,Pass ,Fail,Pass,Low,Incomplete Response,Decent info but offers no path to file a warranty claim. Feels incomplete. 
+C-082,7/3/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-083,7/3/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Good recommendation. 
+C-084,7/3/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Good info but general knowledge. 
+C-085,7/3/26,Shipping Delay,Pass,Pass ,Fail,Pass,High,Missing Escalation ,Feels incomplete. Need info about other team. 
+C-086,7/3/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Would like to see more information about the team they need to get to (returns). 
+C-087,7/3/26,Warranty ,Pass,Pass ,Pass ,Pass,Low,Missing Escalation ,Missing info about how to contact escalation team. 
+C-088,7/4/26,Billing,Pass,Pass ,Pass ,Pass,Medium,None,Good resolution. 
+C-089,7/4/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Great gift card recommendation. 
+C-090,7/4/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Medium,None,Good clarification. 
+C-091,7/4/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Solid and educational. 
+C-092,7/4/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-093,7/4/26,Warranty ,Pass,Pass ,Pass ,Pass,Low,None,Follow up question needed. 
+C-094,7/4/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Low,None,Good guidance. 
+C-095,7/4/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Great guidance. 
+C-096,7/4/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Good conversational style here. 
+C-097,7/4/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-098,7/4/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Should provide follow up number for another team that may not to help customer. 
+C-099,7/4/26,Warranty ,Pass,Pass ,Pass ,Pass,Low,None,Follow up question asking if customer would like the phone number to warranty/support team. 
+C-100,7/4/26,Billing,Pass,Pass ,Pass ,Pass,Medium,None,Good response. 
+C-101,7/4/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,"Offers nothing specific, no follow up question. "
+C-102,7/4/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Medium,None,Appreciate the commitment to honestly and not offering things it can’t. 
+C-103,7/4/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,Good convo. 
+C-104,7/4/26,Return Request ,Pass,Pass ,Pass ,Pass,Medium,None,Good guidance and makes no promises. 
+C-105,7/4/26,Warranty ,Pass,Pass ,Pass ,Pass,Medium,None,Should offer a support number for a “warranty specialist”. 
+C-106,7/4/26,Shipping Delay,Pass,Pass ,Pass ,Pass,High,None,Pass but not super empathetic. 
+C-107,7/4/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Good response. Rare appearance of a follow up question. 
+C-108,7/4/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,"So so. “Loft” isn’t the most common word, especially in retail. Opportunity to speak about updated sleeping bags. "
+C-109,7/4/26,Shipping Delay,Pass,Pass ,Pass ,Pass,Medium,None,Good handling of a somewhat complex shipping issue. 
+C-110,7/4/26,Return Request ,Fail,Pass ,Fail,Fail,High,Incorrect Information ,"This could be a big issue. Customer states that they purchased an item 2 weeks and this could be out of the return period, which AI doesn’t speak to. "
+C-111,7/4/26,Warranty ,Pass,Pass ,Pass ,Pass,Low,None,Good empathy and advice. 
+C-112,7/4/26,Billing,Pass,Pass ,Pass ,Pass,Low,None,Good info but follow up question needed. 
+C-113,7/4/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,Excellent response and educational. 
+C-114,7/4/26,Shipping Delay,Fail,Pass ,Fail,Pass,High,Generic Recommendation ,Very generic. Had an opportunity to check on the tracking number/order number but that was bypassed. 
+C-115,7/4/26,General Inquiry ,Pass,Pass ,Pass ,Pass,Low,None,No excitement or strong empathy. Decent response. 
+C-116,7/4/26,Return Request ,Pass,Pass ,Pass ,Pass,Low,None,Good commitment to the facts. 
+C-117,7/4/26,Warranty ,Pass,Pass ,Pass ,Pass,Low,None,Good handling of minor pushback. 
+C-118,7/4/26,Billing,Pass,Pass ,Pass ,Pass,Low,None,Good response. 
+C-119,7/4/26,Product Recommendation,Pass,Pass ,Pass ,Pass,Low,None,"Unique, unexpected answer. Could be considered random but response doesn’t fall apart. "
+C-120,7/4/26,Shipping Delay,Pass,Pass ,Pass ,Pass,High,None,Good guidance. 
