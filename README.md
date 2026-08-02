@@ -1,6 +1,6 @@
 # AI Conversation Quality Review
 
-A manual quality review of 120 AI-assisted customer support conversations, built to demonstrate a structured QA workflow for evaluating conversational AI — the kind of work a response validation / conversation quality specialist does day to day.
+A manual quality review of 120 AI-assisted customer support conversations, built to demonstrate a structured QA workflow for evaluating conversational AI.
 
 > **Disclosure:** North Ridge Outfitters is a fictional outdoor retailer created for this portfolio project. The 120 conversation transcripts are synthetic. The review process, scoring, findings, and analysis are real work I did against that data.
 
@@ -49,4 +49,4 @@ AI conversation evaluation • quality assurance methodology design • error/fi
 
 ## About this project
 
-Built as part of a portfolio for response validation specialist roles. Feedback welcome.
+Built as part of a portfolio. Feedback welcome.
