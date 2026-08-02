@@ -43,6 +43,8 @@ Each dimension was scored Pass/Fail. Where a conversation failed, it received a 
 
 Start with the executive summary for the findings; open the workbook if you want to see the actual conversation behind any given number.
 
+> **Note:** GitHub doesn't render `.docx` or `.xlsx` files inline. Click into either file and select **"View raw"** (or the download icon) to open it locally in Word or Excel.
+
 ## Skills demonstrated
 
 AI conversation evaluation • quality assurance methodology design • error/finding taxonomy design • pattern identification across a dataset • technical writing for mixed audiences • spreadsheet-based evidence tracking
