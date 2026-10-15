@@ -33,7 +33,7 @@ Each dimension was scored Pass/Fail. Where a conversation failed, it received a 
 | Generic Recommendation | 2 |
 | Missing Empathy | 1 |
 
-**The standout pattern:** nearly all of the Incorrect Information findings share the exact same failure shape — the assistant states a specific, confident delivery date for a delayed shipment with no tracking movement to support it. That's a single, coachable failure mode (the assistant reassuring with an unverifiable specific claim) rather than nine unrelated factual slips, and it's the clearest actionable insight in the review.
+**The standout pattern:** The biggest takeaway: Almost every piece of Incorrect Information followed the exact same pattern. Instead of making nine unrelated factual errors, the AI made the same mistake repeatedly: it confidently promised a specific delivery date for delayed shipments without any tracking data to back it up. This means we aren't looking at random bugs, but a single, easily coachable habit—the AI making unverified claims just to reassure the user.
 
 ## Repo contents
 
