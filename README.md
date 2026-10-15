@@ -33,7 +33,7 @@ Each dimension was scored Pass/Fail. Where a conversation failed, it received a 
 | Generic Recommendation | 2 |
 | Missing Empathy | 1 |
 
-**The standout pattern:** The biggest takeaway: Almost every piece of Incorrect Information followed the exact same pattern. Instead of making nine unrelated factual errors, the AI made the same mistake repeatedly: it confidently promised a specific delivery date for delayed shipments without any tracking data to back it up. This means we aren't looking at random bugs, but a single, easily coachable habit—the AI making unverified claims just to reassure the user.
+**The standout pattern:** Almost every piece of Incorrect Information followed the exact same pattern. Instead of making nine unrelated factual errors, the AI made the same mistake repeatedly: it confidently promised a specific delivery date for delayed shipments without any tracking data to back it up. This means we aren't looking at random bugs, but a single, easily coachable habit—the AI making unverified claims just to reassure the user.
 
 ## Repo contents
 
